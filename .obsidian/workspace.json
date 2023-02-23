@@ -4,21 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "d8378c02983bc848",
+        "id": "a1fca0a9400dbb9e",
         "type": "tabs",
         "children": [
           {
-            "id": "c5c3e7481e3a7059",
+            "id": "0e77b43edc0db74f",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/plugins/obsidian-git/data.json",
-                "staged": false
+                "file": "Tools/ssh.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a72194dc6c9f66ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Services/GitLab.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Services/GitLab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Services/GitLab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Services/GitLab.md"
+              }
             }
           },
           {
@@ -149,10 +167,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee91a762d873baae",
+  "active": "a72194dc6c9f66ed",
   "lastOpenFiles": [
-    "Tools/SSH.md",
-    "Tools/GitLab.md",
+    "Tools/nmap.md",
+    "Tools/ssh.md",
+    "Services/GitLab.md",
+    "Services",
     "Test.md",
     "Tools"
   ]

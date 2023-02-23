@@ -11,8 +11,12 @@
             "id": "c5c3e7481e3a7059",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Tools/SSH.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tools/SSH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tools/SSH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Tools/SSH.md"
+              }
             }
           }
         ]
@@ -140,8 +148,8 @@
   },
   "active": "c5c3e7481e3a7059",
   "lastOpenFiles": [
-    "Tools/SSH.md",
     "Tools/GitLab.md",
+    "Tools/SSH.md",
     "Test.md",
     "Tools"
   ]

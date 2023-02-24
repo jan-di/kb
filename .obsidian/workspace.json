@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/nmap.md",
+                "file": "Tools/vim.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "9303e5e68cd3bccc",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.15"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools/nmap.md",
+                "file": "Tools/vim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools/nmap.md",
+                "file": "Tools/vim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools/nmap.md"
+                "file": "Tools/vim.md"
               }
             }
           },
@@ -165,10 +154,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9303e5e68cd3bccc",
+  "active": "0e77b43edc0db74f",
   "lastOpenFiles": [
-    "Services/GitLab.md",
     "Tools/nmap.md",
+    "Services/GitLab.md",
     "Tools/SSH.md",
     "Tools/vim.md",
     "Tools/ssh.md",

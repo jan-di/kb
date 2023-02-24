@@ -1,4 +1,10 @@
 
+Recover swp file
+```shell
+vim -r x.swp
+```
+
+
 Breakout to other files:
 `:e`
 

@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a625788a2d4fd73a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools/sudo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c342962d34bf5b21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools/sudo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools/vim.md",
+                "file": "Tools/sudo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools/vim.md",
+                "file": "Tools/sudo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools/vim.md"
+                "file": "Tools/sudo.md"
               }
             }
           },
@@ -154,12 +179,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e77b43edc0db74f",
+  "active": "c342962d34bf5b21",
   "lastOpenFiles": [
+    "Tools/find.md",
+    "Tools/sudo.md",
+    "Tools/vim.md",
     "Tools/nmap.md",
     "Services/GitLab.md",
     "Tools/SSH.md",
-    "Tools/vim.md",
     "Tools/ssh.md",
     "Services",
     "Test.md",

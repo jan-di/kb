@@ -2,6 +2,8 @@
 Recover swp file
 ```shell
 vim -r x.swp
+
+:w new-filename
 ```
 
 

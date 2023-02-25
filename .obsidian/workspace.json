@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3f948d212f6285c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools/sudo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools/vim.md",
+                "file": "Tools/sudo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools/vim.md",
+                "file": "Tools/sudo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools/vim.md"
+                "file": "Tools/sudo.md"
               }
             }
           },
@@ -167,13 +179,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aa9ae65328231e47",
+  "active": "3f948d212f6285c6",
   "lastOpenFiles": [
+    "Tools/gobuster.md",
+    "Tools/find.md",
+    "Tools/vim.md",
     "Tools/ss.md",
     "Tools/ssh.md",
     "Tools/nmap.md",
-    "Tools/find.md",
-    "Tools/vim.md",
     "Tools/sudo.md",
     "Services/GitLab.md",
     "Services",

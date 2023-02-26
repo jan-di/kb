@@ -1,1 +1,2 @@
 .obsidian/** linguist-vendored
+*.md linguist-detectable

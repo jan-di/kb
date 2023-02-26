@@ -9,3 +9,4 @@ sudo -l <username>
 Possible privilege escalations:
 - [[find]]
 - [[vim]]
+- [[ruby]]

